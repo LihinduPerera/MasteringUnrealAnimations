@@ -74,6 +74,10 @@
 		{
 			"Name": "GameplayInteractions",
 			"Enabled": true
+		},
+		{
+			"Name": "GizmoFramework",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
